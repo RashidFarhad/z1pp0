@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//us2/bba4af919bd50f50fa9a57a24f7b027720190225200849/3174822d84a183609056b3276865d364035318a6/electra_v1.3.2.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTc0Mzc5NTQsInVuaXF1ZSI6ImJiYTRhZjkxOWJkNTBmNTBmYTlhNTdhMjRmN2IwMjc3MjAxOTAyMjUyMDA4NDkiLCJmaWxlbmFtZSI6ImVsZWN0cmFfdjEuMy4yLmlwYSIsImhvdCI6ZmFsc2UsIndheWJpbGxfdXJsIjoiaHR0cDovL3Byb2R1Y3Rpb24uYmFja2VuZC5zZXJ2aWNlLnVzLWVhc3QtMS53dDo5MjkyL3dheWJpbGwvdjEvc2Fya2FyL2RjNDA5NmM0Y2ViZGFjZTI0ZGY3NDhhMzUyYzgzYWQ2N2NiYWZmZTVmZjlmZTY5MzcxYWNmYWYzMjM4NWY3MTY5NTdjN2I0MGM4MGY2YWVhMmE3NGZhIiwiZmluZ2VycHJpbnQiOiIzMTc0ODIyZDg0YTE4MzYwOTA1NmIzMjc2ODY1ZDM2NDAzNTMxOGE2IiwiY2FsbGJhY2siOiJ7XCJmb3JtZGF0YVwiOntcImFjdGlvblwiOlwiaHR0cDovL3Byb2R1Y3Rpb24uZnJvbnRlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6MzAwMC93ZWJob29rcy9iYWNrZW5kXCJ9LFwiZm9ybVwiOntcInRyYW5zZmVyX2lkXCI6XCJiYmE0YWY5MTliZDUwZjUwZmE5YTU3YTI0ZjdiMDI3NzIwMTkwMjI1MjAwODQ5XCIsXCJkb3dubG9hZF9pZFwiOjk5ODY5MzY2NjZ9fSJ9.KwxvExM3bBwjP7s3KIqj13Y8AzEXw8aBL45GXt4dnO4</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>org.coolstar.electra1141</string>
+				<key>bundle-version</key>
+				<string>1.3.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡Electra 11.4.1⚡
+
+🔥Jailbreak🔥
+ 
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

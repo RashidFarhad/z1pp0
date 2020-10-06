@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//us2/052cb9846fe62c8756fe2f18721b69bf20200715114803/806da7d94472fa83cf639a607c0c7ed11dc0c187/TikTok%20Unicorn%20%28v4.2%29.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgwMTUxNjEsInVuaXF1ZSI6IjA1MmNiOTg0NmZlNjJjODc1NmZlMmYxODcyMWI2OWJmMjAyMDA3MTUxMTQ4MDMiLCJmaWxlbmFtZSI6IlRpa1RvayBVbmljb3JuICh2NC4yKS5pcGEiLCJob3QiOmZhbHNlLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS51cy1lYXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL3Nhcmthci85ZGIzYjU5NDVkNTBjZjcxZGU3NGVjYjE3NTQ4MWMxYjViZDU0OTEwYzQ1MGNmYmNhYWJmYzQ4MDVmMjQ1YTZlZGFkZTI1OWViZThkYTJlNDk3NWU2ZiIsImZpbmdlcnByaW50IjoiODA2ZGE3ZDk0NDcyZmE4M2NmNjM5YTYwN2MwYzdlZDExZGMwYzE4NyIsImNhbGxiYWNrIjoie1wiZm9ybWRhdGFcIjp7XCJhY3Rpb25cIjpcImh0dHA6Ly9wcm9kdWN0aW9uLmZyb250ZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjMwMDAvd2ViaG9va3MvYmFja2VuZFwifSxcImZvcm1cIjp7XCJ0cmFuc2Zlcl9pZFwiOlwiMDUyY2I5ODQ2ZmU2MmM4NzU2ZmUyZjE4NzIxYjY5YmYyMDIwMDcxNTExNDgwM1wiLFwiZG93bmxvYWRfaWRcIjoxMDAzNDI5MDQ1NH19In0.NeKK1WnhNzSZPPemB3HLpPRfzJLLkmDQzrp5Xtle7Vk</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>ml.rashid.Tikyol</string>
+				<key>bundle-version</key>
+				<string>vBeta7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡TikTok Unicorn⚡
+
+🔥App Store🔥
+
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

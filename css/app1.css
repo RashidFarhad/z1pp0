@@ -1,0 +1,158 @@
+/*url(https://ameer.app/HomeBlue.png)* {*/
+/*    font-family: rubik, sans-serif*/
+/*}*/
+body {
+    color: #26435a
+}
+.navbar {
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .04);
+    background: #fff;
+    color: #26435a
+}
+.navbar.no-shadow {
+    box-shadow: none
+}
+html.ios-gt-8 .navbar .center,
+.navbar .center {
+    font-weight: 500
+}
+.navbar:after {
+    background: #fff
+}
+.toolbar {
+    box-shadow: 0 -4px 18px 0 rgba(0, 0, 0, .04);
+    background: #fff
+}
+.toolbar:before {
+    background: 0 0
+}
+.page-content {
+    color: #26435a;
+}
+.content-block-title {
+    color: #26435a
+}
+.content-block {
+    color: #26435a
+}
+.item-title {
+    font-weight: 500!important
+}
+ul {
+    background: 0 0
+}
+.exoresign ul,
+.appInfo ul {
+    -webkit-box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .04);
+    -moz-box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .04);
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .04)
+}
+.exoresign li,
+.appInfo li,
+.card li {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none
+}
+iframe {
+    border-radius: 20px;
+    -webkit-box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .07);
+    -moz-box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .07);
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .07);
+    border: none
+}
+li {
+    background: #fff;
+    -webkit-box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .07);
+    -moz-box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .07);
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .07)
+}
+.dark .page-content {
+    background: #22252a;
+    color: #fff
+}
+.dark .navbar {
+    box-shadow: 0 4px 18px 0 rgba(0, 0, 0, .04);
+    background: #2d3035;
+    color: #fff
+}
+.dark .navbar:after {
+    background: #2d3035
+}
+.dark .toolbar {
+    box-shadow: 0 -4px 18px 0 rgba(0, 0, 0, .04);
+    background: #2d3035;
+    color: #fff
+}
+.dark li {
+    background: #2d3035;
+    color: #fff!important
+}
+.dark .card {
+    background: #2d3035
+}
+.dark .content-block-title {
+    color: #fff
+}
+.dark .content-block {
+    color: #fff
+}
+body.dark {
+    color: #fff
+} 
+iframe .rh {
+    background-color: #2d3035;
+    background: #2d3035;
+    color: #fff
+}
+
+i.home {
+    width: 25px;
+    height: 25px; 
+    background-image: url(../img/icons8-home-301.png)
+}
+.active i.home {
+    background-image: url(../img/icons8-home-351.png)
+}
+i.app {
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/icons8-open-box-301.png)
+}
+.active i.app {
+    background-image: url(../img/icons8-open-box-351.png) 
+}
+
+i.settings {
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/icons8-gears-301.png)
+}
+.active i.settings {
+    background-image: url(../img/icons8-gears-351.png)
+}
+
+.searchbar input[type="search"] {
+        background-image: url(../img/icons8-search-more-301.png);
+}
+
+
+.label-switch input[type="checkbox"]:checked + .checkbox {
+        background: #575d65;
+}
+
+.label-switch .checkbox {
+        background: #f5f5f5ad;
+}
+
+.layout-white .item-inner:after, .layout-white .list-block ul ul li:last-child .item-inner:after {
+    background: #0000;
+}
+.layout-white .list-block ul:before, .list-block.layout-white ul:before {
+    background: #0000;
+}
+
+.blur {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}

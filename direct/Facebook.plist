@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//eu2/5e0be24e9081316c67dc4dcb15c0e2ad20171017163745/7d4253ae9dc38261aaf35e42cdc7d07d0693a256/FacebookPlus_145.0_v1.6r-35.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgwMTk5NzAsInVuaXF1ZSI6IjVlMGJlMjRlOTA4MTMxNmM2N2RjNGRjYjE1YzBlMmFkMjAxNzEwMTcxNjM3NDUiLCJmaWxlbmFtZSI6IkZhY2Vib29rUGx1c18xNDUuMF92MS42ci0zNS5pcGEiLCJob3QiOmZhbHNlLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL3Nhcmthci9mYjIwYTE1NGUzNmM5MDZmNTE1NWQ5MmQ0YmE3MTcwYmM1MmQ3ZWMxZWY5NjZjYTcwMDRmZGM0Yjg5NzY4OTY2YWI1N2Y2ZDAwMTE2YjViODE4MmU3OSIsImZpbmdlcnByaW50IjoiN2Q0MjUzYWU5ZGMzODI2MWFhZjM1ZTQyY2RjN2QwN2QwNjkzYTI1NiIsImNhbGxiYWNrIjoie1wiZm9ybWRhdGFcIjp7XCJhY3Rpb25cIjpcImh0dHA6Ly9wcm9kdWN0aW9uLmZyb250ZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjMwMDAvd2ViaG9va3MvYmFja2VuZFwifSxcImZvcm1cIjp7XCJ0cmFuc2Zlcl9pZFwiOlwiNWUwYmUyNGU5MDgxMzE2YzY3ZGM0ZGNiMTVjMGUyYWQyMDE3MTAxNzE2Mzc0NVwiLFwiZG93bmxvYWRfaWRcIjoxMDAzNDg3Njc3M319In0.l_a2MNnPDXNOyCxC5EV1Df7R8JH0Z2QJZ7RfZ_11KiY</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>ml.zippo.facebook</string>
+				<key>bundle-version</key>
+				<string>vBeta7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡Facebook++⚡
+
+🔥App Store🔥
+ 
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

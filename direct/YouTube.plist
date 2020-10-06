@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//eu2/69e768ead9f7c6fb5ccfa1482aa4baf120181004102047/16d2368e22304c7118d7bf8de04d7e23c911c7b2/YouTubePlus_v13.02.9_T1.4r-91.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgwMTk2MTYsInVuaXF1ZSI6IjY5ZTc2OGVhZDlmN2M2ZmI1Y2NmYTE0ODJhYTRiYWYxMjAxODEwMDQxMDIwNDciLCJmaWxlbmFtZSI6IllvdVR1YmVQbHVzX3YxMy4wMi45X1QxLjRyLTkxLmlwYSIsImhvdCI6ZmFsc2UsIndheWJpbGxfdXJsIjoiaHR0cDovL3Byb2R1Y3Rpb24uYmFja2VuZC5zZXJ2aWNlLmV1LXdlc3QtMS53dDo5MjkyL3dheWJpbGwvdjEvc2Fya2FyLzYxMmJjM2NhZGU1NTg4NmM5ODE2ZWVkMThkYTc2ZTZjNGEwMDA5Yjc3NzA3Y2EzMzQ1NWIxNjU3MzU5M2QxZmVjYmY2N2RmZjkxYTI4M2VjZDAwODE2IiwiZmluZ2VycHJpbnQiOiIxNmQyMzY4ZTIyMzA0YzcxMThkN2JmOGRlMDRkN2UyM2M5MTFjN2IyIiwiY2FsbGJhY2siOiJ7XCJmb3JtZGF0YVwiOntcImFjdGlvblwiOlwiaHR0cDovL3Byb2R1Y3Rpb24uZnJvbnRlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6MzAwMC93ZWJob29rcy9iYWNrZW5kXCJ9LFwiZm9ybVwiOntcInRyYW5zZmVyX2lkXCI6XCI2OWU3NjhlYWQ5ZjdjNmZiNWNjZmExNDgyYWE0YmFmMTIwMTgxMDA0MTAyMDQ3XCIsXCJkb3dubG9hZF9pZFwiOjEwMDM0ODMxOTU0fX0ifQ.lnc3KNJ4UeAtWm820CvJ9c14pQWoIo0pFBZXR23O5o4</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>ml.zippo.youtube</string>
+				<key>bundle-version</key>
+				<string>vBeta7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡YouTube++⚡
+
+🔥App Store🔥
+ 
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

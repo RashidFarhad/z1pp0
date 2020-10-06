@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//us2/ec02f90e31630e3468b2a0f576cfc8d720200611153100/d188436eeb7f709c85412e2279121464527b6ee8/me.alfhaily.rocket_v3.7.3.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgwMTgwMDYsInVuaXF1ZSI6ImVjMDJmOTBlMzE2MzBlMzQ2OGIyYTBmNTc2Y2ZjOGQ3MjAyMDA2MTExNTMxMDAiLCJmaWxlbmFtZSI6Im1lLmFsZmhhaWx5LnJvY2tldF92My43LjMuaXBhIiwiaG90IjpmYWxzZSwid2F5YmlsbF91cmwiOiJodHRwOi8vcHJvZHVjdGlvbi5iYWNrZW5kLnNlcnZpY2UudXMtZWFzdC0xLnd0OjkyOTIvd2F5YmlsbC92MS9zYXJrYXIvZmVhZDBhMDEyYjYzMzgxODNmYWE0YTA3NGJlZWE0MjRiZjlkNDBiNGU3OTE5OThhYWRmZWM4N2I4ODVhYjRhNTc2MDEyYjg4NWIzMDU3OGJhMzQwNDkiLCJmaW5nZXJwcmludCI6ImQxODg0MzZlZWI3ZjcwOWM4NTQxMmUyMjc5MTIxNDY0NTI3YjZlZTgiLCJjYWxsYmFjayI6IntcImZvcm1kYXRhXCI6e1wiYWN0aW9uXCI6XCJodHRwOi8vcHJvZHVjdGlvbi5mcm9udGVuZC5zZXJ2aWNlLmV1LXdlc3QtMS53dDozMDAwL3dlYmhvb2tzL2JhY2tlbmRcIn0sXCJmb3JtXCI6e1widHJhbnNmZXJfaWRcIjpcImVjMDJmOTBlMzE2MzBlMzQ2OGIyYTBmNTc2Y2ZjOGQ3MjAyMDA2MTExNTMxMDBcIixcImRvd25sb2FkX2lkXCI6MTAwMzQ2MzE4NzZ9fSJ9.QBu4fDoKv_8JMIgcvmljBgv1oZT6PhWf6iXOstQbraE</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>ml.zippo.Instagram</string>
+				<key>bundle-version</key>
+				<string>vBeta7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡️Instagram++⚡
+
+🔥App Store🔥
+
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

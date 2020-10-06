@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//us2/4458f9d03501eb0f57eebf9f7e6dd4d520190419144044/c29a419fc2ad5f925f2904bf160aef64d216ae3a/TwitterPlus_v7.47_T1.2r-82.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgwMTkwODEsInVuaXF1ZSI6IjQ0NThmOWQwMzUwMWViMGY1N2VlYmY5ZjdlNmRkNGQ1MjAxOTA0MTkxNDQwNDQiLCJmaWxlbmFtZSI6IlR3aXR0ZXJQbHVzX3Y3LjQ3X1QxLjJyLTgyLmlwYSIsImhvdCI6ZmFsc2UsIndheWJpbGxfdXJsIjoiaHR0cDovL3Byb2R1Y3Rpb24uYmFja2VuZC5zZXJ2aWNlLnVzLWVhc3QtMS53dDo5MjkyL3dheWJpbGwvdjEvc2Fya2FyLzFkODRjZDE5ZmRlYjMzMjczMjgxNzM2ODdhZDYzYzg2YzgyMDc2NTY1YjlhMTJjOGM0MDgyODUzMGE2NTk1OTMyNGI0NGQ0NDNkNDE5YTRhNDY2MjI5IiwiZmluZ2VycHJpbnQiOiJjMjlhNDE5ZmMyYWQ1ZjkyNWYyOTA0YmYxNjBhZWY2NGQyMTZhZTNhIiwiY2FsbGJhY2siOiJ7XCJmb3JtZGF0YVwiOntcImFjdGlvblwiOlwiaHR0cDovL3Byb2R1Y3Rpb24uZnJvbnRlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6MzAwMC93ZWJob29rcy9iYWNrZW5kXCJ9LFwiZm9ybVwiOntcInRyYW5zZmVyX2lkXCI6XCI0NDU4ZjlkMDM1MDFlYjBmNTdlZWJmOWY3ZTZkZDRkNTIwMTkwNDE5MTQ0MDQ0XCIsXCJkb3dubG9hZF9pZFwiOjEwMDM0NzY0MDE0fX0ifQ.eNlFo8eJ5W8HTS98OlvQlLbFibv-lfdShJRJu6rN9yQ</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>ml.rashid.twiiter</string>
+				<key>bundle-version</key>
+				<string>vBeta7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡Twitter++⚡
+
+🔥App Store🔥
+
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

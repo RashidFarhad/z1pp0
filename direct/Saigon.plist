@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//eu2/dc8ee24ca84935d205865c48d06c639420171022152325/ed75f60d3daca302505b98c4a4430b39e6282064/Saigon_beta2.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTc0MzkzNDgsInVuaXF1ZSI6ImRjOGVlMjRjYTg0OTM1ZDIwNTg2NWM0OGQwNmM2Mzk0MjAxNzEwMjIxNTIzMjUiLCJmaWxlbmFtZSI6IlNhaWdvbl9iZXRhMi5pcGEiLCJob3QiOmZhbHNlLCJ3YXliaWxsX3VybCI6Imh0dHA6Ly9wcm9kdWN0aW9uLmJhY2tlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6OTI5Mi93YXliaWxsL3YxL3Nhcmthci9lZDEzYTdhZjljODE2NDA0ODE1MGFkYjc0YWNhZjBkZjBiMWM2YTg3YzA3NmE3ZjdhODE1YzBjZWUyMDgyY2QxZjM5YjJmYzVjMjg4MTg0NmZjNDllOSIsImZpbmdlcnByaW50IjoiZWQ3NWY2MGQzZGFjYTMwMjUwNWI5OGM0YTQ0MzBiMzllNjI4MjA2NCIsImNhbGxiYWNrIjoie1wiZm9ybWRhdGFcIjp7XCJhY3Rpb25cIjpcImh0dHA6Ly9wcm9kdWN0aW9uLmZyb250ZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjMwMDAvd2ViaG9va3MvYmFja2VuZFwifSxcImZvcm1cIjp7XCJ0cmFuc2Zlcl9pZFwiOlwiZGM4ZWUyNGNhODQ5MzVkMjA1ODY1YzQ4ZDA2YzYzOTQyMDE3MTAyMjE1MjMyNVwiLFwiZG93bmxvYWRfaWRcIjo5OTg3MDY2MTkwfX0ifQ.-1yjXjRBaIqKMJa5YG_P-rQdW-2G9W9aCuXroy395fw</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cf.rashidfarhad.saigon</string>
+				<key>bundle-version</key>
+				<string>Beta 2rL</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡SaiGon⚡
+
+🔥Jailbreak🔥
+ 
+
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://download.wetransfer.com//us2/1faba49abf093cf2114f55675c62aa0c20190831041244/460d92ad24390cacce611eaa572041f40cc6fc4f/WhatsApp_v2.19.71_1.6r-105.ipa?cf=y&amp;token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTgwMTg4MDUsInVuaXF1ZSI6IjFmYWJhNDlhYmYwOTNjZjIxMTRmNTU2NzVjNjJhYTBjMjAxOTA4MzEwNDEyNDQiLCJmaWxlbmFtZSI6IldoYXRzQXBwX3YyLjE5LjcxXzEuNnItMTA1LmlwYSIsImhvdCI6ZmFsc2UsIndheWJpbGxfdXJsIjoiaHR0cDovL3Byb2R1Y3Rpb24uYmFja2VuZC5zZXJ2aWNlLnVzLWVhc3QtMS53dDo5MjkyL3dheWJpbGwvdjEvc2Fya2FyL2E2ZjdhYWE0YTJkYjk1NzNmMTMxOGJjZTE2Zjk4Y2YzYjBjYTg2YTg3ZDUwZGFhZDAwMjRlZTg4Yjc2ODNiMTE2NTQ2ZTkzOTM0NzczYTU1ODkxZWIxIiwiZmluZ2VycHJpbnQiOiI0NjBkOTJhZDI0MzkwY2FjY2U2MTFlYWE1NzIwNDFmNDBjYzZmYzRmIiwiY2FsbGJhY2siOiJ7XCJmb3JtZGF0YVwiOntcImFjdGlvblwiOlwiaHR0cDovL3Byb2R1Y3Rpb24uZnJvbnRlbmQuc2VydmljZS5ldS13ZXN0LTEud3Q6MzAwMC93ZWJob29rcy9iYWNrZW5kXCJ9LFwiZm9ybVwiOntcInRyYW5zZmVyX2lkXCI6XCIxZmFiYTQ5YWJmMDkzY2YyMTE0ZjU1Njc1YzYyYWEwYzIwMTkwODMxMDQxMjQ0XCIsXCJkb3dubG9hZF9pZFwiOjEwMDM0NzI5OTk3fX0ifQ.9XkUK5Q_Fq1H9Vy-3V2IJSQLl99u-IgI2cUsLD_RtuM</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://rashidfarhadstore.ml/icon/RashidFarhad1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>ml.zippo.Whatsapp</string>
+				<key>bundle-version</key>
+				<string>vBeta7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>
+⚡WhatsApp++⚡
+
+🔥App Store🔥
+ 
+ZippoHacks Store📦
+
+TeleGram : @z1pp0 🔥
+TeleGram Channel : @zippoHacks♥️</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
